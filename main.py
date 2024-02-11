@@ -1,7 +1,7 @@
 import cv2
 import easyocr
 
-image_path = "/home/phillip/Desktop/todays_tutorial/30_text_detection_easyocr/code/data/test2.png"
+image_path = "./water-meter-reading.jpg"
 
 img = cv2.imread(image_path)
 
